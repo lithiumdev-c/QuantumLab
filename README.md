@@ -6,7 +6,7 @@
 
 <br />
 
-##About project
+<h1>About project</h1>
 
 This project is not real and commercial. It's my React landing page practice with 3d models
 3d models are from sketchfab
@@ -25,7 +25,7 @@ This project is not real and commercial. It's my React landing page practice wit
   <h3>For react i used frameworks: "React-Three", "React-Dom-Router", "React Motion", "Maath", "EmailJS" and etc.</h3>
 </details>
 
-##Contact me
+<h2>Contact me</h2>
 
 If u have some questions here my telegram
 <br/>
