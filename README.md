@@ -29,10 +29,10 @@ This project is not real and commercial. It's my React landing page practice wit
 
 If u have some questions here my telegram
 <br/>
-[![Telegram]( https://img.shields.io/badge/github-repo-blue?logo=github)](https://t.me/@k3rnelpan1x)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@k3rnelpan1x)
 
 ## 🌐 Visit website
-[![LINK](https://img.shields.io/badge/QLAB)](https://quantumlab-seven.vercel.app/)
+[![LINK]( https://img.shields.io/badge/github-repo-blue?logo=github)](https://quantumlab-seven.vercel.app/)
 
 
 ## 🚀 Getting Started
