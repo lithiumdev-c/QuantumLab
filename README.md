@@ -35,8 +35,8 @@ If u have some questions here my telegram
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
-git clone https://github.com/Ali-Sanati/Portfolio.git
-cd Portfolio
+git clone https://github.com/QuantumLab/QuantumLab.git
+cd QuantumLab
 ```
 2. Install Dependencies
 ```bash
@@ -47,4 +47,11 @@ npm install
 npm run dev
 ```
 The app will be available at http://localhost:5173.
+
+## ⭐ Like this project?
+Then Star this repo and follow me!
+
+If readme contain errors contact me
+
+
 
