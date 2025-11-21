@@ -1,4 +1,4 @@
-<h1 align="center">QunatumLab</h1>
+<h1 align="center">QuantumLab</h1>
 
 <p align="center">
   <img width="150" height="150" src="/public/assets/qlab.png"/>
