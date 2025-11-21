@@ -6,7 +6,7 @@
 
 <br />
 
-<h1>About project</h1>
+<h1>📃 About project</h1>
 
 This project is not real and commercial. It's my React landing page practice with 3d models
 3d models are from sketchfab
@@ -25,9 +25,26 @@ This project is not real and commercial. It's my React landing page practice wit
   <h3>For react i used frameworks: "React-Three", "React-Dom-Router", "React Motion", "Maath", "EmailJS" and etc.</h3>
 </details>
 
-<h2>Contact me</h2>
+<h2>📡 Contact me</h2>
 
 If u have some questions here my telegram
 <br/>
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@k3rnelpan1x)
+
+
+## 🚀 Getting Started
+1. Clone the Repository
+```bash
+git clone https://github.com/Ali-Sanati/Portfolio.git
+cd Portfolio
+```
+2. Install Dependencies
+```bash
+npm install
+```
+3. Run the Development Server
+```bash
+npm run dev
+```
+The app will be available at http://localhost:5173.
 
