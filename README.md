@@ -1,7 +1,7 @@
 <h1 align="center">QunatumLab</h1>
 
 <p align="center">
-  <img src="/public/assets/qlab.png"/>
+  <img width="150" height="150" src="/public/assets/qlab.png"/>
 </p>
 
 <br />
@@ -22,11 +22,12 @@ This project is not real and commercial. It's my React landing page practice wit
     <img src="https://skillicons.dev/icons?i=vscode&perline=7" />
     <br>
   </p>
-  <h3>For react i used frameworks for react: "React-Three", "React-Dom-Router", "React Motion", "Maath", "EmailJS" and etc.</h3>
+  <h3>For react i used frameworks: "React-Three", "React-Dom-Router", "React Motion", "Maath", "EmailJS" and etc.</h3>
 </details>
 
 ##Contact me
 
 If u have some questions here my telegram
+<br/>
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/@k3rnelpan1x)
 
